@@ -10,7 +10,7 @@ You can see the requirement in <a href="https://github.com/DinhCongHoang/Query_E
 
 ![image](https://github.com/DinhCongHoang/Query_Ecommerce_Data_SQL/assets/45199893/a7da1345-3eb2-48a2-b85b-17296217d3e0)
 
-<p>Table Schema: <a href="https://support.google.com/analytics/answer/3437719?hl=en">Link</a></p>
+<p>Table Schema:</p> <a href="https://support.google.com/analytics/answer/3437719?hl=en">Link</a>
 
 # Work
 Please see my work <a href="">here</a>, for source code please click <a href="https://console.cloud.google.com/bigquery?sq=941132660462:0c134b7701b64b369eee32ea8690d428">here</a>.
