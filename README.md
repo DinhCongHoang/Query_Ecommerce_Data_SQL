@@ -13,11 +13,11 @@ You can see the requirement in <a href="https://github.com/DinhCongHoang/Query_E
 <p>Table Schema:</p> <a href="https://support.google.com/analytics/answer/3437719?hl=en">Link</a>
 
 # Work
-Please see my work <a href="">here</a>, for source code please click <a href="https://console.cloud.google.com/bigquery?sq=941132660462:0c134b7701b64b369eee32ea8690d428">here</a>.
+Please see my work <a href="https://github.com/DinhCongHoang/Query_Ecommerce_Data_SQL/blob/main/Query_Ecommerce_Data.md">here</a>, for source code please click <a href="https://console.cloud.google.com/bigquery?sq=941132660462:0c134b7701b64b369eee32ea8690d428">here</a>.
 
 # What I practice from this project?
-- SQL
-  - SELECT clause
+- Data Querying by SQL:
+  - SELECT and other clauses
   - Aggregate function
   - Filtering, ordering
   - Join, union
